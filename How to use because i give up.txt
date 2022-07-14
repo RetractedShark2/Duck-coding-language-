@@ -1,0 +1,11 @@
+0 Ducks :(  - END 
+1 Duck - Push String To Console (print basically) syn. | duck \n <text in ascii ducks (Or NULL for variables)> <opt: VAR NAME>
+2 Ducks :D - Add 2 numbers/variables together syn. | duck duck \n <1st var> \n<2nd var> \n<save var>
+3 Ducks !! - Subtract 2 numbers/variables from eachother syn. | duck duck duck \n<1st var> \n<2nd var> \n <save var>
+4 Ducks - Multiply 2 numbers/variables syn. | duck duck duck duck \n<1st var> \n<2nd var> \n<save var>
+5 Ducks :O - Load (Usr Input (0 Ducks)) -> asks for input from user (Variable Reading) syn. | duck duck duck duck duck \n<UsrInp0 or Var1>  \n<Var: name> or <UsrInp: sign(>) or no sign> \n<Save location>
+6 Ducks =O - Jumps to a certain spot of code syn. | duck duck duck duck duck duck <duckint- location>
+7 Ducks - Store a variable with a certain name syn. | duck duck duck duck duck duck duck \n <value(in duck of coursse)> \n<name(int made of ducks)>
+8 Ducks (LIMIT NEAR) - Quits Program syn. | duck duck duck duck duck duck duck duck
+9 Ducks (HOLD ON TO YOUR BUTTS!) - If statements, very basic. syn. | duck duck duck duck duck duck duck duck duck <location a> <operation type: 0 Ducks = Equal, 1 Duck = Is Bigger, 2 Duck = Is Smaller, 3 Duck = Not Equal> <location b> <Jump To Somewhere>
+10 Ducks (MAX DUCKS) - you'll figure it out soon enough >;) syn. | duck duck duck duck duck duck duck duck duck duck \n<idr>
