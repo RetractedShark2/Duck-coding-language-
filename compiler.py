@@ -1,3 +1,4 @@
+import os
 import sys
 
 command = []
@@ -20,7 +21,7 @@ for i in range(len(Lines)):
 file.close()
 
 #program list
-while command[cmdCount] != 8 or command[cmdCount] > 9:
+while command[cmdCount] != 8 or command[cmdCount] > 10:
 
     if command[int(cmdCount)] == 1:
         cmdCount += 1
@@ -139,7 +140,7 @@ while command[cmdCount] != 8 or command[cmdCount] > 9:
 
             duck5a = int(command[cmdCount])
 
-            varlist.insert(duck5a, duck5ans)
+            varlist.insert(duck5a, int(duck5ans))
 
         elif command[int(cmdCount)] == 1:
             cmdCount += 1
@@ -224,5 +225,4 @@ while command[cmdCount] != 8 or command[cmdCount] > 9:
             sys.exit("Bro u had one job")
     
     elif command[int(cmdCount)] == 10:
-        sys.remove(cdname)
-
+        os.remove(cdname)
