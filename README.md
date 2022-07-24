@@ -8,3 +8,5 @@ this is just a funny project I had, dont take it too seriously. I  mean, it's wr
 also most stuff probably will not work as I have been debugging this thing ever since I created it. I made this in one night after pulling 3 all nighters and no longer know how anything works so good luck.
 
 msg me if u have any requests @ RetractedShark2#7833 on Discord (Ill probs link it if I can)
+
+Check The Releases If u want the newest version, IDK how to use github tbh.
