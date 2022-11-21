@@ -10,3 +10,5 @@ also most stuff probably will not work as I have been debugging this thing ever 
 msg me if u have any requests @ RetractedShark2#7833 on Discord (Ill probs link it if I can)
 
 Check The Releases If u want the newest version, IDK how to use github tbh.
+
+Note: I rewrite da language bcuz bored & also it bad to uze :)))) ill probably be out ltr tonite
