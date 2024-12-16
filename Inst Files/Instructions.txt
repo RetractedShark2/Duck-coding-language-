@@ -1,0 +1,24 @@
+Binary Definitions:
+    To simplify the insertion of data from before, binaries will instead follow the d - 1, g - 0
+    Headers for binaries will start with the normal 0b and follow by the sequence of data.
+
+    Hexadecimal is not as of now implemented due to its lack of range for the duck.
+
+Functions:
+    Function definitions will begin with the command [puddle] followed by a name and a set of input variables.
+    Variables will be preceeded by a d'var' or a g'var' where duck is a required variable and goose is an optional variable, default being Null
+
+Variable Types:
+    Overall, essentials will be included such as:
+        - Strings, being defined as Think
+        - Floats, being defined as Float
+        - Integers, being defined as Depth
+        - Lists, being defined as Pack
+
+    Variables must be declared beforehand, being declared in the structure of 'food all Think' (Defining a global String) where:
+        - 'food' declares a variable
+        - 'all' declaring it as global, can be supplemented by 'puddle' for locals
+        - 'Think' declaring the variable type from above, must be capitalised
+
+Instructions:
+    Quack - Outputs variables surrounded by {} / Code defined statements by '' / Mix of both
