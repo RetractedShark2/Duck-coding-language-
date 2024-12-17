@@ -21,4 +21,4 @@ Variable Types:
         - 'Think' declaring the variable type from above, must be capitalised
 
 Instructions:
-    Quack - Outputs variables surrounded by {} / Code defined statements by '' / Mix of both
+    quack - Outputs variables surrounded by {} / Code defined statements by '' / Mix of both

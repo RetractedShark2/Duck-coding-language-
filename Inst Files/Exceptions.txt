@@ -1,2 +1,3 @@
 None - Nothing gone wrong
 1 - Invalid Format for Variable
+2 - No file present

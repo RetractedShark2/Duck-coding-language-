@@ -1,0 +1,9 @@
+puddle main(); {
+    food puddle Depth count = 0bg
+    can count = 0bdd; {
+        quack('I AM 3!')
+    }
+    other; {
+        food count += 0bd
+    }
+}
